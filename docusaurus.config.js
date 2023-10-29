@@ -10,11 +10,11 @@ module.exports = {
   projectName: 'openpesa.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Openpesa',
+      // title: 'Openpesa',
       logo: {
         alt: 'Openpesa Logo',
-        srcDark: 'img/openpesa_logo.webp',
-        src: 'img/logo.svg',
+        srcDark: 'img/openpesa-brand.svg',
+        src: 'img/openpesa-brand-alt.svg',
       },
       items: [
         {
