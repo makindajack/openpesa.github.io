@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Openpesa',
-  tagline: 'Online payments API',
+  tagline: 'An open-source payments integration toolkit for businesses and developers.',
   url: 'https://openpesa.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -10,7 +10,6 @@ module.exports = {
   projectName: 'openpesa.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      // title: 'Openpesa',
       logo: {
         alt: 'Openpesa Logo',
         srcDark: 'img/openpesa-brand.svg',
