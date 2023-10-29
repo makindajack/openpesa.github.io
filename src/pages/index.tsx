@@ -60,13 +60,26 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`${(siteConfig as any).tagline}`}
+      description="An open-source payments integration toolkit for businesses and developers."
     >
       <header className={clsx("hero shadow--lw", styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <picture>
+            <source
+              media="(prefers-color-scheme: dark)"
+              srcSet={useBaseUrl("img/openpesa-brand.svg")}
+              style={{ width: "400px", height: "auto" }}
+            ></source>
+            <img
+              src={useBaseUrl("img/openpesa-brand-alt.svg")}
+              alt="Openpesa"
+              style={{ width: "400px", height: "auto" }}
+              className="hero__logo"
+            />
+          </picture>
+          <h1 className="hero__title">{(siteConfig as any).title}</h1>
+          <p className="hero__subtitle">{(siteConfig as any).tagline}</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
