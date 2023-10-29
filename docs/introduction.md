@@ -29,7 +29,7 @@ If you'd like to help, get in touch! Also, the wiki is always a valuable resourc
 The main development happens in [GitHub](https://github.com/openpesa). To contribute, fork one of the repos, branch off a feature branch from developing, make your changes, and commit them, push to your fork and submit a pull request.
 Most of the time we merge develop into the main branch, which results in a new release. This means you will always find the latest stable version in the main branch.
 
-## Thanks 
+## Thanks
 
 Many individuals, companies, and organizations have contributed to Openpesa. We'd like to thank them all!
 Additionally, our thanks go out to the tens of thousands of developers and organizations who have created all the modules we depend on or contributed in some way to our ability to provide Openpesa as open source.

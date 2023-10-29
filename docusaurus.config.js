@@ -23,7 +23,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/openpesa/openpesa.github.io',
           label: 'GitHub',
@@ -41,7 +41,6 @@ module.exports = {
               label: 'Guide',
               to: 'docs/introduction',
             },
-            
           ],
         },
         {
@@ -90,7 +89,7 @@ module.exports = {
             'https://github.com/openpesa/openpesa.github.io/edit/main/',
         },
         blog: {
-          showReadingTime: true,          
+          showReadingTime: true,
           editUrl:
             'https://github.com/openpesa/openpesa.github.io/edit/master/website/blog/',
         },

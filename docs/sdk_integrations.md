@@ -23,7 +23,6 @@ You can use API wrappers in your favorite language. These libraries support all 
   <!-- - [Dart](#) 🚧 WIP -->
   <!-- - [.NET](#) 🚧 WIP -->
 
-
 ## Contributing
 
 If you want to build a new integration with Openpesa, you are more than welcome to and we would be happy to help you!
