@@ -78,7 +78,7 @@ function Home() {
               className="hero__logo"
             />
           </picture>
-          <h1 className="hero__title">{(siteConfig as any).title}</h1>
+          <p className="hero__title">pesa</p>
           <p className="hero__subtitle">{(siteConfig as any).tagline}</p>
           <div className={styles.buttons}>
             <Link
