@@ -1,6 +1,6 @@
 ---
 slug: welcome-new-docs
-title: Welcome New Documentation
+title: Welcome New Docs
 author: Alpha Olomi
 author_title: Openpesa Core Team
 author_url: https://github.com/alphaolomi
@@ -14,4 +14,3 @@ Hello 👋,
 Am excited to announce the release of new revamped documentaion for Javascript and PHP SDK.
 
 <!-- truncate -->
-

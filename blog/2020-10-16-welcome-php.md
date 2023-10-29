@@ -14,13 +14,14 @@ Hello 👋
 Am happy to announce today we have version 0.0.1 of Pesa SDK for PHP
 
 <!-- truncate -->
+
 It supports the following features (via synchronous requests)
 
 - customer to business (C2B) single payment
 - business to customer (B2C) single payment
 - payment reversals (pr)
-- query transaction status 
-- direct debit creation (ddc) 
+- query transaction status
+- direct debit creation (ddc)
 - direct debit payments(ddp)
 
 Currently, we only have SDK for PHP we are looking forward to supporting Javascript next.
@@ -28,8 +29,7 @@ Please find some documentation for the SDK, not much but its start, link at the 
 
 If you have any question or inquiry, am available and happy to help.
 
-More testing is required, check and try the examples, feedback is  highly appreciated,
-
+More testing is required, check and try the examples, feedback is highly appreciated,
 
 ## Links
 

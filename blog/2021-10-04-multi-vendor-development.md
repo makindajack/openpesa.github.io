@@ -1,5 +1,5 @@
 ---
-slug: welcome-new-docs
+slug: welcome-new-documentation
 title: Welcome New Documentation
 author: Alpha Olomi
 author_title: Openpesa Core Team
@@ -30,6 +30,8 @@ More testing is required, check and try the examples, feedback is highly appreci
 
 ## Links
 
-Github Organisation: https://github.com/openpesa <br>
-Github repo: https://github.com/openpesa/php-pesa <br>
-Docs: https://openpesa.github.io/ <br>
+Github Organisation: https://github.com/openpesa
+
+Github repo: https://github.com/openpesa/php-pesa
+
+Docs: https://openpesa.github.io/
